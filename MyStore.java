@@ -1,4 +1,4 @@
-//Paste all files in ur eclipse workspace and Run them using this main function
+//Paste all files in ur eclipse workspace and Run them using this Class containing main function
 package project;
 import java.util.ArrayList;
 import java.util.Scanner;
