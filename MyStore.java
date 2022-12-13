@@ -1,3 +1,4 @@
+//paste all files in ur eclipse workspace and Run them using this main function
 package project;
 import java.util.ArrayList;
 import java.util.Scanner;
